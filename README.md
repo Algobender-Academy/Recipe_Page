@@ -1,4 +1,4 @@
-#Build Your First HTML & CSS Project - Simple Omelette Recipe Page | Frontend Essentials Clinic 1
+# Build Your First HTML & CSS Project - Simple Omelette Recipe Page | Frontend Essentials Clinic 1
 
 Click the image to watch the tutorial 📺:
 
