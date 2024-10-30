@@ -130,7 +130,8 @@ a:any-link {
   margin-bottom: 16px;
 }
 
-.prepration__ul {
+.prepration__ul,
+.ingredients__ul {
   list-style: none;
 }
 
